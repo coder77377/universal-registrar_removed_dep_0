@@ -1,0 +1,8 @@
+The following dependency needs to be added:
+
+```xml
+<dependency>
+	<groupId>org.slf4j</groupId
+	<artifactId>slf4j-api</artifactId
+</dependency>
+```
